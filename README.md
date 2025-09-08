@@ -3,7 +3,6 @@
 - 🎓 Technology student at GerminareTech  
 - 🚀 Fullstack Developer in training  
 - 📚 Currently building a portfolio of applications  
-- 🛠 Familiar with Git, Firebase, Spring Boot and PostgreSQL  
 
 ---
 
